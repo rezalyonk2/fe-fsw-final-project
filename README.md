@@ -12,7 +12,9 @@
 - Mabertha Asasiyah Berliana
 - Alif Kurniawan
 
-Kalian bisa klik ➡️ [Backend](https://github.com/Irfanca1/BE-FSW-Final-Project.git)
+Kalian bisa klik ➡️ [Backend](https://github.com/Irfanca1/BE-FSW-Final-Project)
+Kalian bisa klik ➡️ [Android](https://github.com/MuchamadAndriyanto/AND-Final-Project)
+
 
 
 ## Run Locally in Terminal
